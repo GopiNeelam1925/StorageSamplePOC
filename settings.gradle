@@ -1,0 +1,6 @@
+include ':constraintlayoutpoc'
+include ':retrofitpoc'
+include ':roompoc'
+include ':navcomponent'
+include ':app'
+rootProject.name = "StorageSamplePOC"
